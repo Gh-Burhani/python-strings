@@ -1,0 +1,71 @@
+.a{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    border-color: aqua;
+    background-position: 10px;
+}
+
+.b{
+    font-size: xx-large;
+    color: black;
+    font-style: italic;
+    
+
+}
+
+.c{
+    font-size: xx-large;
+    font-style: inherit;
+    color: blue;
+    background-color: aliceblue;
+}
+
+.d{
+    font-size: xx-large;
+    font-style: inherit;
+    color: blueviolet;
+}
+
+.e{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+.f{
+    color: aqua;
+    font-size: xx-large;
+    font-style: unset;
+}
+
+.g{
+    color: darkcyan;
+    font-size: xx-large;
+    font-style: oblique;
+}
+
+.h{
+    color: chartreuse;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.i{
+    color: dodgerblue;
+    font-size: xx-large;
+    font-style: italic;
+
+}
+
+.j{
+    font-size: xx-large;
+    color: gold;
+    font-style: initial;
+}
+
+body{
+    background-color: rgba(219, 230, 230, 0.253);
+    font-size: x-large;
+}
