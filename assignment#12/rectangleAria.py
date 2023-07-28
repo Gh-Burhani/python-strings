@@ -1,11 +1,5 @@
-def calculate_rectangle_aria(width, height):
-    area = width * height
-    return area
+def calculate_rectangle_area(width, height):
+    print(width * height)
 
-areaA = calculate_rectangle_aria(5,1)
-areaB = calculate_rectangle_aria (4,2)
-
-print(areaA)
-print(areaB)
-
+calculate_rectangle_area(5, 8)
 
